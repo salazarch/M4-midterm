@@ -3,4 +3,4 @@ Repository for a gRPC server and client using ROS for color detection and image 
 # Video demostration
 https://www.youtube.com/watch?v=BmOSbtz3M_k
 # Data Flow Diagram
-!{DFD_M4MidTerm.drawio.png}
+!(DFD_M4MidTerm.drawio.png)
