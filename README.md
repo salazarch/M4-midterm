@@ -6,15 +6,19 @@ https://www.youtube.com/watch?v=BmOSbtz3M_k
 ![DFD](DFD_M4MidTerm.drawio.png)
 ## CORS uses and benefits
 Cross-Origin Resource Sharing best known as CROS is a security policy for browsers that increases security and protection to users when accessing or loading resources from various origins.
+
 It has the main feature of allowing controlled-access to CO(Cross-Origin) resources while preventing unauthorized access from unknown sources which in return allows modern web application access to resources from different domains.
 Some of the key points as to why CORS is used are:
-•	Same-Origin Policy Enforcement
-•	Cross-Origin Resource Access
-•	API Integration and Data Sharing
-•	Authentication and Authorization
-•	Security Considerations
-•	Development and Testing
+
+* Same-Origin Policy Enforcement
+* Cross-Origin Resource Access
+*	API Integration and Data Sharing
+*	Authentication and Authorization
+*	Security Considerations
+*	Development and Testing
+
 CORS is a technology that could prove extremely beneficial to an application that uses gRPC server and getaway since we are dealing with HTTPS requests and REST-API since it would provide the application with a secure way to fetch data from APIs and through HTTP.
+
 ## gRPC Service setup and execution
 ### Start image coordinates detector
 1. To run start de server and use the client you first need need to create a catkin workspace and set up a ROS package
