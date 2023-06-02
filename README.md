@@ -75,7 +75,7 @@ go build go-gateway.go
 ```
 
 ## Doxygen documentation
-![Doxygen](doxygen html.png)
+![Doxygen](doxygen_html.png)
 
 The next file have been documented using doxygen format:
 
