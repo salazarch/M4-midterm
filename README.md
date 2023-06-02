@@ -3,7 +3,7 @@ Repository for a gRPC server and client using ROS for color detection and image 
 ## Video demostration
 https://www.youtube.com/watch?v=BmOSbtz3M_k
 ## Data Flow Diagram
-![DFD](DFD_M4MidTerm.drawio.png)
+![DFD](DFD_M4MidTerm.png)
 ## CORS uses and benefits
 Cross-Origin Resource Sharing best known as CROS is a security policy for browsers that increases security and protection to users when accessing or loading resources from various origins.
 
